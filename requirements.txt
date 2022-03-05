@@ -5,4 +5,3 @@ https://github.com/mesuk2043/madness/archive/refs/heads/master.zip
 wget
 pillow
 hachoir
-ffmpeg
