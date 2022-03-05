@@ -1,7 +1,7 @@
 
 TgCrypto
 https://raw.githubusercontent.com/HasibulKabir/pyrogramarchive/master/pyrogramasyncv0.18.0.zip
-git+https://github.com/mesuk2043/madness
+https://github.com/mesuk2043/madness/archive/refs/heads/master.zip
 wget
 pillow
 hachoir
