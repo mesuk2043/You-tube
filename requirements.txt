@@ -5,3 +5,4 @@ git+https://github.com/mesuk2043/madness
 wget
 pillow
 hachoir
+ffmpeg
