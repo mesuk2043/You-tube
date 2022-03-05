@@ -6,3 +6,4 @@ wget
 pillow
 hachoir
 ffmpeg
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/archive/refs/heads/master.zip
